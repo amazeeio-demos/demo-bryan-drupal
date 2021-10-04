@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'DrupalCon collections'
+      title: 'DrupalCon Europe 2021 collections'
       header: {  }
       footer: {  }
       empty: {  }
