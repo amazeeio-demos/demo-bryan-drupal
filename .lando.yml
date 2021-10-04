@@ -1,0 +1,6 @@
+name: demo-bryan-drupal
+recipe: lagoon
+config:
+  flavor: drupal
+  build:
+    - composer install
