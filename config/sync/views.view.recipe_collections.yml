@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'DrupalEurope ''21 collections'
+      title: 'Another great DrupalCon in the bag! '
       header: {  }
       footer: {  }
       empty: {  }
