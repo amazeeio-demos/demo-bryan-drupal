@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Another great DrupalCon in the bag! '
+      title: 'GovCon 2021 Articles'
       header: {  }
       footer: {  }
       empty: {  }
