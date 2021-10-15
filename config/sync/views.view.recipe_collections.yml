@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Whatsup Drupal GovCon 2021????'
+      title: 'Thanks for a great Drupal GovCon 2021! hope to see you in person soon :D '
       header: {  }
       footer: {  }
       empty: {  }
