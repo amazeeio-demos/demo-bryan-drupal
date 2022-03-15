@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello from amazee.io - happy Ash Wednesday'
+      title: 'Hello from amazee.io - this is a random Tuesday'
       header: {  }
       footer: {  }
       empty: {  }
