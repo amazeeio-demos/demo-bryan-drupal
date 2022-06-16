@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello from amazee.io to ImageX - happy Monday'
+      title: 'Hello from Bryan to Peter :D '
       header: {  }
       footer: {  }
       empty: {  }
