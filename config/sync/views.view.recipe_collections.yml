@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello from Bryan to Peter :D '
+      title: 'Hello JoinBox'
       header: {  }
       footer: {  }
       empty: {  }
