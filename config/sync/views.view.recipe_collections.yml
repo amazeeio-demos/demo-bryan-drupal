@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello World - this is City of Austin Awesome'
+      title: 'Hello World - this is Omibee'
       header: {  }
       footer: {  }
       empty: {  }
