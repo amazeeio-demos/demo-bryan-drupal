@@ -184,7 +184,7 @@ display:
           entity_type: taxonomy_term
           entity_field: name
           plugin_id: standard
-      title: 'Hello World - this is Omibee'
+      title: 'Hello World'
       header: {  }
       footer: {  }
       empty: {  }

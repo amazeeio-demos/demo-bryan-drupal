@@ -369,7 +369,7 @@ display:
           empty: false
           tokenize: false
           content:
-            value: '<p class="text-align-center">Explore recipes across every type of occasion, ingredient, and skill level</p>'
+            value: '<p class="text-align-center">Hello Digital Polygon!</p>'
             format: full_html
           plugin_id: text
       rendering_language: '***LANGUAGE_language_interface***'
