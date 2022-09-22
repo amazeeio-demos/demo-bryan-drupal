@@ -369,7 +369,7 @@ display:
           empty: false
           tokenize: false
           content:
-            value: '<p class="text-align-center">Hello World!</p>'
+            value: '<p class="text-align-center">Hello Mirantis Peeps!</p>'
             format: full_html
           plugin_id: text
       rendering_language: '***LANGUAGE_language_interface***'
